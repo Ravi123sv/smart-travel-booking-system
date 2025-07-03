@@ -66,7 +66,6 @@ Open http://localhost:3000 in your browser.
 👤 Author
 Ravi Sai Vinay M
 GitHub: @Ravi123sv
-Email: suribabumokamatla@gmail.com
 
 📘 License
 This project is licensed under the MIT License.
