@@ -222,16 +222,6 @@ npm start
 3. **User Authentication**: Use demo account or create new account
 4. **Responsive Design**: Test on mobile and desktop
 
-### API Testing
-Use tools like Postman or curl to test API endpoints:
-\`\`\`bash
-# Test location search
-curl "http://localhost:3000/api/locations/search?q=new"
-
-# Test flight search
-curl "http://localhost:3000/api/flights/search?from=NYC&to=LAX&departureDate=2024-12-01"
-\`\`\`
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -244,12 +234,6 @@ curl "http://localhost:3000/api/flights/search?from=NYC&to=LAX&departureDate=202
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-For support and questions:
-- Create an issue in the repository
-- Email: support@smarttravel.com
-- Documentation: [docs.smarttravel.com](https://docs.smarttravel.com)
 
 ---
 
