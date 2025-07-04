@@ -112,6 +112,9 @@ npm run dev
 5. **Open your browser**
 Navigate to [http://localhost:3000](http://localhost:3000)
 
+### Note:
+My all works are releated to local host not connected to online hosting(Given rights while using these mention us). 
+
 ### Demo Account
 Use these credentials to test the application:
 - **Email**: demo@smarttravel.com
